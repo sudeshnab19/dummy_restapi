@@ -1,0 +1,21 @@
+[
+  {
+    "EST": "1/1/2016",
+    "Temperature": 38,
+    "DewPoint": 23,
+    "Humidity": 52
+  },
+  {
+    "Temperature": 30,
+    "DewPoint": 20
+  },
+  {
+    "EST": "1/3/2016",
+    "Humidity": 59
+  },
+  {
+    "EST": "1/5/2016",
+    "Temperature": 36,
+    "DewPoint": 21
+  }
+]
